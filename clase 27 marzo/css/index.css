@@ -1,0 +1,17 @@
+#uno {background-color: hwb(75 32% 0%)}
+#dos {background-color: #515751;}
+#tres {background-color: hsl(305, 79%, 83%);}
+#cuatro {background-color: #ad0202;}
+
+#uno,#dos,#tres, #cuatro {
+    width: 200px;
+    height: 200px;
+    padding: 5px;
+    border-style:solid;
+}
+
+h3{
+    color: black;
+    font-size: 55px;
+    text-align: center;
+}
